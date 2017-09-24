@@ -1,0 +1,5 @@
+enable_lightmap=true
+volume.sfx=1.0
+volume.music=1.0
+smoothmove=true
+scale=3
